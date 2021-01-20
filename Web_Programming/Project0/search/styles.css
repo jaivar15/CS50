@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0; 
+}
+
+a {
+    float: right; 
+    padding:  0 1.5em 0 1.5em; 
+}
+
+
+form {
+
+    position: relative; 
+    text-align: center;
+    margin: auto; 
+    top: 37%; 
+    bottom: 0%;
+
+
+}
+input {
+    padding: 1em;
+    width: 200px;
+}
+
+
+.logo {
+    position: absolute;
+    left: 0; 
+    right:0; 
+    top: 0;
+    bottom: 45%;
+    margin: auto; 
+    
+}
