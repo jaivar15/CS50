@@ -5,6 +5,7 @@ html, body {
 }
 
 a {
+    margin:0em;
     float: right; 
     padding:  0 1.5em 0 1.5em; 
 }
@@ -12,7 +13,7 @@ a {
 
 form {
 
-    position: relative; 
+
     text-align: center;
     margin: auto; 
     top: 37%; 
@@ -20,9 +21,16 @@ form {
 
 
 }
-input {
-    padding: 1em;
-    width: 200px;
+.textbox {
+    padding: 0.5em;
+    height: 20px;
+    width: 25%;
+    border-radius: 12px;
+}
+
+.searchhh {
+    margin:1.5em;
+
 }
 
 
